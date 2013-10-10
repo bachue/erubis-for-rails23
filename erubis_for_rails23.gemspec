@@ -3,8 +3,8 @@ Gem::Specification.new do |spec|
   spec.version       = '0.1'
   spec.authors       = ['Bachue Zhou']
   spec.email         = ['bachue.shu@gmail.com']
-  spec.description   = %q{A simple gem which can resolve some compatibility issue when using Erubis in Rails 2.3}
-  spec.summary       = %q{A simple gem which can resolve some compatibility issue when using Erubis in Rails 2.3}
+  spec.description   = %q{A simple gem which can resolve some compatibility issues when using Erubis in Rails 2.3}
+  spec.summary       = %q{A simple gem which can resolve some compatibility issues when using Erubis in Rails 2.3}
   spec.homepage      = 'http://bachue.is-programmer.com'
   spec.license       = 'GPLv3'
 

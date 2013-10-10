@@ -1,6 +1,6 @@
-# ErubisForRails23
+# Erubis For Rails2.3
 
-A simple gem which can resolve some compatibility issue when using Erubis in Rails 2.3
+A simple gem which can resolve some compatibility issues when using Erubis in Rails 2.3
 
 ## Installation
 
