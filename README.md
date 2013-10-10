@@ -1,6 +1,6 @@
 # ErubisForRails23
 
-TODO: Write a gem description
+A simple gem which can resolve some compatibility issue when using Erubis in Rails 2.3
 
 ## Installation
 
@@ -18,7 +18,7 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Just install it and require it in your Rails 2.3 project
 
 ## Contributing
 
