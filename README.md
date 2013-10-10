@@ -20,6 +20,8 @@ Or install it yourself as:
 
 Just install it and require it in your Rails 2.3 project
 
+You could add `ERB_ENGINE = Erubis::FastEruby` to `config/environment.rb` if you want to switch to `FastEruby`
+
 ## Contributing
 
 1. Fork it
