@@ -8,7 +8,7 @@ ERB = Erubis::Eruby
 ERB::Util = util
 
 class Erubis::Eruby # to be compatible with ERB constructor
-  def initialize(input, *args)
+  def initialize(input = nil, *args)
     if args.size.zero? || args.first.is_a?(Hash)
       super
     else
